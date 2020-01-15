@@ -9,7 +9,7 @@ URL: http://dokkai.com//index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-After a long silence ... the dokkai.com is back.
+After a long silence ... 
 
 <script>talkyardServerUrl='https://comments-for-dokkai-com.talkyard.net';</script>
 <script async defer src="https://c1.ty-cdn.net/-/talkyard-comments.min.js"></script>
