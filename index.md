@@ -18,3 +18,7 @@ The first kanji	in this term 読 is translated as <b>to read</b> and the second 
 - make clear; explain
 - understand; comprehend
 - opinion; explanation; solution
+
+Those studying Japanese  language increase skills by reading numerous field-specific booklets to improve their reading comprehension. After all, Japanese Language Proficiency Test (JLPT) has a dedicated session just to dokkai.
+
+There are plenty of such studying materials on the Internet shops, including Sscribd.com LPT N3 Nihongo Somtome Reading Dokkai Asuku (NIHONGO SO-MATOME (KANJI) (3)) is a good example of such a material. 
