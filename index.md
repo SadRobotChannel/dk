@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dokkai: 読解, どっかい
+title: "dokkai 読解 どっかい"
 comments: false
 img:
 alt:
