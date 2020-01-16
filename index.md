@@ -12,12 +12,12 @@ URL: http://dokkai.com/index.html
 In translation from Japanese <b>dokkai</b> (読解, どっかい) stands for <b>reading comprehension</b> or to <b>understand what one reads</b>.
 
 The first kanji	in this term 読 is translated as <b>to read</b> and the second 解 may mean a whole array of words:
-
+<b>
 - divide; split; separate
 - untie; loosen; relax; remove
 - make clear; explain
 - understand; comprehend
-- opinion; explanation; solution
+- opinion; explanation; solution</b>
 
 Those studying Japanese  language increase skills by reading numerous field-specific booklets to improve their reading comprehension. After all, Japanese Language Proficiency Test (JLPT) has a dedicated session just to dokkai.
 
