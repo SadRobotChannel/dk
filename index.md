@@ -17,7 +17,8 @@ The first kanji	in this term 読 is translated as <b>to read</b> and the second 
 - untie; loosen; relax; remove
 - make clear; explain
 - understand; comprehend
-- opinion; explanation; solution</b>
+- opinion; explanation; solution
+</b>
 
 Those studying Japanese  language increase skills by reading numerous field-specific booklets to improve their reading comprehension. After all, Japanese Language Proficiency Test (JLPT) has a dedicated session just to dokkai.
 
@@ -30,16 +31,16 @@ There are plenty of such studying materials on the Internet shops, including Ssc
 If you are looking for the past content of dokkai.com written by 岡部憲治 (circa 2007-2008), try the following links at the Internet Archive:
 
 - <a href="http://web.archive.org/web/20090106112807/http://www.dokkai.com/wordpress/2007/09/" target="_blank">http://web.archive.org/web/20090106112807/http://www.dokkai.com/wordpress/2007/09/</a>
-http://web.archive.org/web/20090106112807/http://www.dokkai.com/wordpress/2007/10/
-http://web.archive.org/web/20080511135047/http://www.dokkai.com/wordpress/2007/11/
-http://web.archive.org/web/20080511135053/http://www.dokkai.com/wordpress/2007/12/
-http://web.archive.org/web/20080511135108/http://www.dokkai.com/wordpress/2008/01/
-http://web.archive.org/web/20110925223945/http://www.dokkai.com/wordpress/2008/02/
-http://web.archive.org/web/20110922185116/http://www.dokkai.com/wordpress/2008/06/
-http://web.archive.org/web/20110916031906/http://www.dokkai.com/wordpress/2008/07/
-http://web.archive.org/web/20110911165017/http://www.dokkai.com/wordpress/2008/08/
-http://web.archive.org/web/20110926051110/http://www.dokkai.com/wordpress/2008/11/
-http://web.archive.org/web/20110916134247/http://www.dokkai.com/wordpress/2008/12/
+- <a href="http://web.archive.org/web/20090106112807/http://www.dokkai.com/wordpress/2007/10/" target="_blank">http://web.archive.org/web/20090106112807/http://www.dokkai.com/wordpress/2007/10/</a>
+- <a href="http://web.archive.org/web/20080511135047/http://www.dokkai.com/wordpress/2007/11/" target="_blank">http://web.archive.org/web/20080511135047/http://www.dokkai.com/wordpress/2007/11/</a>
+- <a href="http://web.archive.org/web/20080511135053/http://www.dokkai.com/wordpress/2007/12/" target="_blank">http://web.archive.org/web/20080511135053/http://www.dokkai.com/wordpress/2007/12/</a>
+- <a href="http://web.archive.org/web/20080511135108/http://www.dokkai.com/wordpress/2008/01/" target="_blank">http://web.archive.org/web/20080511135108/http://www.dokkai.com/wordpress/2008/01/</a>
+- <a href="http://web.archive.org/web/20110925223945/http://www.dokkai.com/wordpress/2008/02/" target="_blank">http://web.archive.org/web/20110925223945/http://www.dokkai.com/wordpress/2008/02/</a>
+- <a href="http://web.archive.org/web/20110922185116/http://www.dokkai.com/wordpress/2008/06/" target="_blank">http://web.archive.org/web/20110922185116/http://www.dokkai.com/wordpress/2008/06/</a>
+- <a href="http://web.archive.org/web/20110916031906/http://www.dokkai.com/wordpress/2008/07/" target="_blank">http://web.archive.org/web/20110916031906/http://www.dokkai.com/wordpress/2008/07/</a>
+- <a href="http://web.archive.org/web/20110911165017/http://www.dokkai.com/wordpress/2008/08/" target="_blank">http://web.archive.org/web/20110911165017/http://www.dokkai.com/wordpress/2008/08/</a>
+- <a href="http://web.archive.org/web/20110926051110/http://www.dokkai.com/wordpress/2008/11/" target="_blank">http://web.archive.org/web/20110926051110/http://www.dokkai.com/wordpress/2008/11/</a>
+- <a href="http://web.archive.org/web/20110916134247/http://www.dokkai.com/wordpress/2008/12/" target="_blank">http://web.archive.org/web/20110916134247/http://www.dokkai.com/wordpress/2008/12/</a>
 
 ... and others. Follow the links within the pages. Not all pages from the past were saved, unfortunately.
 
