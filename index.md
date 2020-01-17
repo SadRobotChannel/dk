@@ -26,3 +26,22 @@ There are plenty of such studying materials on the Internet shops, including Ssc
 <center>
   <iframe data-aa="1312362" src="//ad.a-ads.com/1312362?size=990x90" scrolling="no" style="width:990px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
 </center>
+
+If you are looking for the past content of dokkai.com written by 岡部憲治 (circa 2007-2008), try the following links at the Internet Archive:
+
+- <a href="http://web.archive.org/web/20090106112807/http://www.dokkai.com/wordpress/2007/09/" target="_blank">http://web.archive.org/web/20090106112807/http://www.dokkai.com/wordpress/2007/09/</a>
+http://web.archive.org/web/20090106112807/http://www.dokkai.com/wordpress/2007/10/
+http://web.archive.org/web/20080511135047/http://www.dokkai.com/wordpress/2007/11/
+http://web.archive.org/web/20080511135053/http://www.dokkai.com/wordpress/2007/12/
+http://web.archive.org/web/20080511135108/http://www.dokkai.com/wordpress/2008/01/
+http://web.archive.org/web/20110925223945/http://www.dokkai.com/wordpress/2008/02/
+http://web.archive.org/web/20110922185116/http://www.dokkai.com/wordpress/2008/06/
+http://web.archive.org/web/20110916031906/http://www.dokkai.com/wordpress/2008/07/
+http://web.archive.org/web/20110911165017/http://www.dokkai.com/wordpress/2008/08/
+http://web.archive.org/web/20110926051110/http://www.dokkai.com/wordpress/2008/11/
+http://web.archive.org/web/20110916134247/http://www.dokkai.com/wordpress/2008/12/
+
+... and others. Follow the links within the pages. Not all pages from the past were saved, unfortunately.
+
+<div id="commento"></div>
+<script src="https://cdn.commento.io/js/commento.js"></script>
