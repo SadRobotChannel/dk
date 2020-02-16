@@ -42,6 +42,3 @@ If you are looking for the past content of dokkai.com written by 岡部憲治 (c
 - <a href="http://web.archive.org/web/20110916134247/http://www.dokkai.com/wordpress/2008/12/" target="_blank">http://web.archive.org/web/20110916134247/http://www.dokkai.com/wordpress/2008/12/</a>
 
 ... and others. Follow the links within the pages. Not all pages from the past were saved, unfortunately.
-
-<div id="commento"></div>
-<script src="https://cdn.commento.io/js/commento.js"></script>
